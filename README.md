@@ -1,1 +1,1 @@
-another readme for git
+update for 4. Collaboration: be up to date 
